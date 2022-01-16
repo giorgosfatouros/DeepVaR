@@ -6,4 +6,4 @@ The DNN is used to estimate the parameters of the portfolio returns' distributio
 As far as the DNN is concerned, the DeepAR estimator from GluonTS package is utilized in order to perform probabilistic forecasts, 
 while the VaR is calculated leveraging DeepAR's output.
 
-This model was developed in the scope of H2020 INFINRTECH project
+This model was developed in the scope of H2020 INFINITECH project.
