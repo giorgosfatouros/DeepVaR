@@ -9,4 +9,5 @@ while the VaR is calculated leveraging DeepAR's output.
 This model was developed in the scope of H2020 INFINITECH project.
 
 If you use this in your research please cite:
-Fatouros, G., Makridis, G., Kotios, D. et al. DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks. Digit Finance (2022). https://doi.org/10.1007/s42521-022-00050-0
+
+- Fatouros, G., Makridis, G., Kotios, D. et al. DeepVaR: a framework for portfolio risk assessment leveraging probabilistic deep neural networks. Digit Finance (2022). https://doi.org/10.1007/s42521-022-00050-0
